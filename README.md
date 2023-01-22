@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/anclsss/stats-preview-card-component-main)
+- Live Site URL: [stats-preview-card-component](https://anclsss.github.io/stats-preview-card-component-main/)
 
 ## My process
 
